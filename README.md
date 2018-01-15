@@ -1,6 +1,9 @@
 ﻿# Programação Corporativa
 
 ## Alunos
-*Pedro
-*Anderson
+* Pedro
+* Anderson
 * Diego
+* Ivan
+* Gerssicleiton
+* Thiago
