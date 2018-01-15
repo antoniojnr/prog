@@ -7,3 +7,4 @@
 * Ivan
 * Gerssicleiton
 * Thiago
+* Giovanna
