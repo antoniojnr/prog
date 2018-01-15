@@ -2,4 +2,7 @@
 
 ## Alunos
 
-*Diego
+
+* Diego
+*Anderson
+
