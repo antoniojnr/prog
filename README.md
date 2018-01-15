@@ -8,3 +8,4 @@
 * Gerssicleiton
 * Thiago
 * Giovanna
+* Carol
