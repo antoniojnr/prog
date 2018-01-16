@@ -6,6 +6,6 @@
 * Diego
 * Ivan
 * Gerssicleiton
-* Thiago
 * Giovanna
 * Carol
+* Thiago
